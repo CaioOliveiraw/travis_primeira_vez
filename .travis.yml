@@ -7,5 +7,5 @@ python:
 after script:
 notifications:
   recipents:
-    - caio.oliveira.w@gmail.comr
+    - caio.oliveira.w@gmail.com
 
